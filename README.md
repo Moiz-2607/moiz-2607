@@ -1,31 +1,31 @@
 # Abdul Moiz Ahsan
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=220&section=header&text=Abdul%20Moiz%20Ahsan&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=220&section=header&text=Abdul%20Moiz%20Ahsan&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Data%20Science%20Engineer%20%7C%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+scalable+software+systems;Engineering+AI-powered+products;Full+Stack+%7C+AI%2FML+%7C+Cloud;Turning+complex+problems+into+simple+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Data+Science+%7C+Software+Engineering;Building+data-driven+applications;Full+Stack+%7C+Data+%7C+Machine+Learning;Turning+complex+problems+into+simple+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20Data%20Science-6D28D9?style=for-the-badge&labelColor=111827" />
   <img src="https://img.shields.io/badge/SRM%20Institute%20of%20Science%20%26%20Technology-4C1D95?style=for-the-badge&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Year-2nd%20Year-7C3AED?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/2nd%20Year-7C3AED?style=for-the-badge&labelColor=111827" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍-Chengalpattu%2C%20Tamil%20Nadu-4338CA?style=flat-square&labelColor=111827" />
-  <a href="https://github.com/">
+  <a href="https://github.com/yourusername">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/yourusername/">
     <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-6D28D9?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/">
+  <a href="https://github.com/yourusername">
     <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
@@ -38,29 +38,30 @@
 
 ---
 
-## About
+## About Me
 
-I am a **Computer Science & Engineering student specializing in Data Science**, focused on building reliable software systems, intelligent applications, and scalable digital products.
+I am a **Data Science Engineer and Computer Science undergraduate** focused on building data-driven software, intelligent applications, and scalable digital products.
 
-My engineering interests span **software engineering, artificial intelligence, machine learning, full-stack development, data-driven systems, and cloud technologies**. I enjoy working across the complete product lifecycle — from understanding a problem and designing the architecture to implementing, testing, deploying, and continuously improving the final system.
+I enjoy working at the intersection of **Data Science, Software Engineering, Machine Learning, Full Stack Development, and Analytics**. My goal is to transform complex problems into practical, reliable, and user-focused technology.
 
-I approach development with a **product-engineering mindset**: strong fundamentals, clean architecture, maintainable code, measurable performance, security-conscious design, and a focus on creating software that solves real problems.
+I believe strong engineering comes from combining **clean code, solid computer science fundamentals, meaningful data analysis, scalable architecture, and a product-oriented mindset**.
 
-### Engineering Interests
+### What I Work With
 
-- Software Engineering & System Design
-- Artificial Intelligence & Machine Learning
-- Full Stack Web Development
 - Data Science & Analytics
-- Backend Engineering & APIs
-- Cloud & DevOps
-- Competitive Programming & DSA
-- Research-driven Engineering
-- Product Development
+- Machine Learning
+- Python Programming
+- Data Structures & Algorithms
+- Full Stack Development
+- Backend Engineering
+- Database Systems
+- Data Visualization
+- Software Engineering
+- Research & Technical Projects
 
 ### Open To
 
-`Software Engineering` · `AI/ML` · `Full Stack Development` · `Research` · `Open Source` · `Internships` · `Collaborative Projects`
+`Data Science` · `Software Engineering` · `Machine Learning` · `Full Stack Development` · `Research` · `Open Source` · `Internships` · `Collaborative Projects`
 
 ---
 
@@ -70,6 +71,19 @@ I approach development with a **product-engineering mindset**: strong fundamenta
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css&theme=dark" />
+</p>
+
+### Data Science & Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=4DABCF" />
+  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458" />
+  <img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=plotly&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
 </p>
 
 ### Frontend
@@ -84,7 +98,7 @@ I approach development with a **product-engineering mindset**: strong fundamenta
   <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,mysql,postgresql,mongodb&theme=dark" />
 </p>
 
-### Cloud, DevOps & Tooling
+### Cloud, DevOps & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,pycharm,aws&theme=dark" />
@@ -92,18 +106,20 @@ I approach development with a **product-engineering mindset**: strong fundamenta
 
 ---
 
-## AI / ML Expertise
+## Data Science Expertise
 
-| Domain | Proficiency | Details |
+| Domain | Level | Focus |
 |---|:---:|---|
-| Machine Learning | Intermediate | Supervised learning, model evaluation, feature engineering and predictive systems |
-| Deep Learning | Intermediate | Neural networks and deep-learning fundamentals |
-| Data Science | Intermediate | Data preprocessing, exploratory analysis and statistical reasoning |
-| Computer Vision | Intermediate | Image-based analysis and vision-oriented ML workflows |
-| NLP | Intermediate | Text processing, classification and intelligent language applications |
-| Generative AI | Intermediate | LLM-powered applications, AI assistants and intelligent workflows |
-| Python for AI | Advanced | Python-based data, automation and machine-learning development |
-| AI Product Engineering | Intermediate | Integrating intelligent models into practical software products |
+| Python | Advanced | Data analysis, automation, programming and application development |
+| Data Analysis | Intermediate | Data cleaning, exploration, transformation and interpretation |
+| Machine Learning | Intermediate | Supervised learning, model evaluation and predictive systems |
+| Statistics | Intermediate | Statistical reasoning and analytical foundations |
+| Data Visualization | Intermediate | Visual exploration and communication of insights |
+| Pandas & NumPy | Intermediate | Data manipulation and numerical computing |
+| SQL | Intermediate | Data querying, relational databases and analytical workflows |
+| Feature Engineering | Intermediate | Preparing meaningful features for machine-learning workflows |
+| Exploratory Data Analysis | Intermediate | Discovering trends, patterns and relationships in datasets |
+| Data-driven Applications | Intermediate | Integrating analytics and data workflows into software products |
 
 ---
 
@@ -114,16 +130,16 @@ I approach development with a **product-engineering mindset**: strong fundamenta
 
 ### Smart Restaurant Booking Management System
 
-A full-stack restaurant management platform designed to streamline table reservations, customer workflows, restaurant operations, and booking management through a centralized system.
+A smart restaurant management application designed to simplify restaurant reservations, table management, customer workflows, and operational processes.
 
 | Category | Details |
 |---|---|
 | **Stack** | Java · OOP · GUI · Database Architecture |
 | **Scale** | Modular restaurant-management architecture |
 | **Performance** | Efficient booking and availability workflows |
-| **Security** | Structured authentication and controlled data access |
+| **Security** | Structured authentication and controlled access |
 | **Impact** | Digitizes restaurant reservation and management workflows |
-| **Repository** | [GitHub Repository](https://github.com/) |
+| **Repository** | [View Repository](https://github.com/yourusername/) |
 
 ### Engineering Scope
 
@@ -131,9 +147,10 @@ A full-stack restaurant management platform designed to streamline table reserva
 - Customer booking management
 - Table availability management
 - Structured application architecture
-- Object-oriented design
+- Object-oriented programming
 - Modular feature development
-- Scalable foundation for future web integration
+- Database-oriented application design
+- Scalable foundation for future improvements
 
 </details>
 
@@ -142,53 +159,26 @@ A full-stack restaurant management platform designed to streamline table reserva
 
 ### Student Academic Dashboard
 
-A Django-based academic web application providing authenticated students with a centralized dashboard for accessing academic information.
+A Django-based academic web application designed to provide students with a centralized dashboard for viewing academic information.
 
 | Category | Details |
 |---|---|
 | **Stack** | Python · Django · HTML · CSS |
-| **Scale** | Modular Django application architecture |
-| **Performance** | Lightweight server-rendered application |
+| **Scale** | Modular Django application |
+| **Performance** | Lightweight server-rendered architecture |
 | **Security** | Authentication-oriented architecture |
-| **Impact** | Centralized academic information delivery |
-| **Repository** | [GitHub Repository](https://github.com/) |
+| **Impact** | Centralized academic information management |
+| **Repository** | [View Repository](https://github.com/yourusername/) |
 
 ### Engineering Scope
 
 - Django project architecture
-- Student authentication workflow
+- Student login workflow
 - Dashboard implementation
 - URL routing
 - Views and templates
-- Structured application modules
-- Backend-driven academic data presentation
-
-</details>
-
-<details>
-<summary><strong>AI-Powered Health Companion</strong></summary>
-
-### AI-Powered Health Companion
-
-An AI-oriented personal health technology concept focused on privacy-preserving monitoring, intelligent insights, and early-warning capabilities.
-
-| Category | Details |
-|---|---|
-| **Stack** | Python · AI/ML · Data Processing |
-| **Scale** | Designed for extensible health-data workflows |
-| **Performance** | Real-time oriented processing architecture |
-| **Security** | Privacy-preserving design principles |
-| **Impact** | Intelligent health monitoring and early-warning support |
-| **Repository** | [GitHub Repository](https://github.com/) |
-
-### Engineering Scope
-
-- AI-assisted monitoring
-- Data-driven health insights
-- Early-warning concepts
-- Privacy-aware architecture
-- Python-based experimentation
-- Research-oriented product development
+- Backend-driven data presentation
+- Modular application structure
 
 </details>
 
@@ -197,7 +187,7 @@ An AI-oriented personal health technology concept focused on privacy-preserving 
 
 ### Increasing Childhood Myopia — Multi-Factor Research
 
-A research-oriented investigation examining lifestyle, genetic, medical, epidemiological, and commercial factors associated with increasing childhood myopia.
+A research project investigating the increasing prevalence of childhood myopia through lifestyle, genetic, medical, epidemiological, and commercial factors.
 
 | Category | Details |
 |---|---|
@@ -205,19 +195,46 @@ A research-oriented investigation examining lifestyle, genetic, medical, epidemi
 | **Scale** | Multi-study evidence synthesis |
 | **Performance** | Structured research-data extraction |
 | **Security** | Source-controlled research workflow |
-| **Impact** | Supports evidence-based understanding of myopia trends |
-| **Repository** | [Research Repository](https://github.com/) |
+| **Impact** | Evidence-based analysis of factors associated with childhood myopia |
+| **Repository** | [Research Repository](https://github.com/yourusername/) |
 
 ### Research Scope
 
 - Epidemiological data extraction
 - Literature review
-- Population-level evidence analysis
+- Population-level analysis
 - Structured research tables
 - Lifestyle-factor investigation
 - Medical and genetic factors
-- Commercial and optical-industry factors
+- Optical and commercial factors
 - Evidence and limitation tracking
+
+</details>
+
+<details>
+<summary><strong>AI-Powered Health Companion</strong></summary>
+
+### AI-Powered Health Companion
+
+An AI-oriented software concept focused on privacy-aware health monitoring, intelligent insights, and early-warning capabilities.
+
+| Category | Details |
+|---|---|
+| **Stack** | Python · Data Science · Machine Learning |
+| **Scale** | Extensible data-processing architecture |
+| **Performance** | Real-time oriented processing |
+| **Security** | Privacy-preserving design principles |
+| **Impact** | Intelligent health monitoring concept |
+| **Repository** | [View Repository](https://github.com/yourusername/) |
+
+### Engineering Scope
+
+- Data-driven monitoring
+- Machine-learning workflows
+- Intelligent insights
+- Privacy-aware architecture
+- Python-based experimentation
+- Research-oriented development
 
 </details>
 
@@ -225,22 +242,26 @@ A research-oriented investigation examining lifestyle, genetic, medical, epidemi
 
 ## Experience
 
-### Student Developer & Researcher
-**Academic / Independent Projects**  
+### Student Developer & Data Science Researcher
+
+**Academic & Independent Projects**  
 `2025 — Present`
 
-Building software and research projects across full-stack development, artificial intelligence, data science, and computer science fundamentals.
+Developing projects across **Data Science, Software Engineering, Full Stack Development, Machine Learning, and research**.
 
-- Develop software using Python, Java, C++, Django and web technologies
-- Design modular application architectures
-- Build academic dashboards and management systems
-- Explore AI/ML applications and intelligent product concepts
-- Conduct structured literature research and evidence extraction
-- Work with Git and GitHub-based development workflows
-- Participate in hackathons, research initiatives and technical projects
-- Continuously strengthen DSA, programming and system-design fundamentals
+- Develop applications using Python, Java, C++, Django and web technologies
+- Perform data analysis and structured data processing
+- Explore machine-learning workflows and predictive systems
+- Design modular software architectures
+- Build academic and management applications
+- Conduct structured literature research
+- Extract and organize research data
+- Use Git and GitHub for version control
+- Participate in hackathons and technical initiatives
+- Continuously strengthen DSA and software engineering fundamentals
 
-**Skills:** `Python` `Java` `C++` `Django` `JavaScript` `Git` `GitHub` `AI/ML` `Data Science`
+**Skills:**  
+`Python` `Data Science` `Machine Learning` `SQL` `Java` `C++` `Django` `JavaScript` `Git` `GitHub`
 
 ---
 
@@ -251,40 +272,12 @@ Building software and research projects across full-stack development, artificia
 | Recognition | Details |
 |---|---|
 | **State-Level Badminton** | Competed in badminton at state-level competition |
-| **Academic Performance** | Maintained strong academic performance throughout undergraduate studies |
 | **Research Participation** | Selected for undergraduate research involving childhood myopia |
 | **Hackathon Participation** | Explored AI-driven and data-driven real-world problem statements |
-| **Technical Development** | Built academic, management and AI-oriented software projects |
-| **Open Source Workflow** | Practiced structured Git branching, commits and pull-request workflows |
+| **Technical Projects** | Developed academic, management and data-driven software projects |
+| **GitHub Development** | Practiced structured Git branching, commits and pull-request workflows |
+| **Academic Development** | Continuously developing skills across Data Science and Computer Science |
 
-</p>
-
----
-
-## Certifications
-
-### AWS
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-Certification-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-### Oracle
-
-<p>
-  <img src="https://img.shields.io/badge/Oracle-Certification-4F46E5?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### NPTEL
-
-<p>
-  <img src="https://img.shields.io/badge/NPTEL-Certification-6D28D9?style=for-the-badge&logo=academia&logoColor=white" />
-</p>
-
-### Cisco
-
-<p>
-  <img src="https://img.shields.io/badge/Cisco-Certification-4338CA?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
 ---
@@ -292,16 +285,19 @@ Building software and research projects across full-stack development, artificia
 ## Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/yourusername/">
     <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
   </a>
-  <a href="https://www.geeksforgeeks.org/">
+
+  <a href="https://www.geeksforgeeks.org/user/yourusername/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
   </a>
-  <a href="https://www.hackerrank.com/">
+
+  <a href="https://www.hackerrank.com/yourusername">
     <img src="https://img.shields.io/badge/HackerRank-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
   </a>
-  <a href="https://www.codechef.com/">
+
+  <a href="https://www.codechef.com/users/yourusername">
     <img src="https://img.shields.io/badge/CodeChef-111827?style=for-the-badge&logo=codechef&logoColor=F0A500" />
   </a>
 </p>
@@ -312,6 +308,7 @@ Building software and research projects across full-stack development, artificia
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9&include_all_commits=true&count_private=true" height="180" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=transparent&hide_border=true&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8" height="180" />
 </p>
 
@@ -350,59 +347,32 @@ Building software and research projects across full-stack development, artificia
 ```yaml
 Learning:
   - Advanced Data Structures & Algorithms
+  - Data Science
   - Machine Learning
-  - Deep Learning
+  - Statistics & Data Analytics
+  - SQL & Database Systems
   - System Design
-  - Cloud Computing
   - Software Engineering Practices
 
 Building:
+  - Data-driven Applications
   - Full Stack Applications
-  - AI-powered Products
   - Intelligent Management Systems
+  - Analytics Projects
   - Research-driven Software
 
 Exploring:
-  - Generative AI
-  - LLM Applications
-  - MLOps
-  - Cloud-native Architecture
+  - Data Visualization
+  - Machine Learning Applications
+  - Cloud Data Platforms
   - Scalable Backend Systems
+  - MLOps
   - Open Source
 
 Open To:
+  - Data Science Internships
   - Software Engineering Internships
-  - AI/ML Opportunities
+  - Machine Learning Opportunities
   - Research Collaborations
   - Open Source Contributions
   - Technical Projects
-```
-
----
-
-## Connect
-
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <strong>Engineering ideas into reliable, intelligent, and impactful products.</strong>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=140&section=footer" width="100%" />
-</p>
